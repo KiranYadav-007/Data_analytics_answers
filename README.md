@@ -13,6 +13,7 @@ Find the Sum of the total Qty of Records missing in data1 but present in data2
 Find the total number of unique records (Order ID + Product ID combination) present in the combined dataset of data1 and data2
 
 </p>
+
 <p>
 TASK 2
 
